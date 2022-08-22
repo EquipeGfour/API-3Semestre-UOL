@@ -1,19 +1,17 @@
 <p align="center">
 <h1 align="center"> FATEC Profº Jessen Vidal, SJC - 3º Semestre DSM - API UOL </h1>
 
-<h1 align="center">
-	
-![imagem](https://user-images.githubusercontent.com/8519765/172056264-3cd8f694-2b99-4de5-91ab-2138ada7c3dc.png)
-	
-</h1>
+<h2> :briefcase: Sobre o Projeto </h2>
+<p>A UOL oferece soluções que facilitam o dia a dia das pessoas. As soluções, em sua maioria, são ofertadas por um plataforma on-line, que está em constante evolução para melhorar a experiência do usuário. Uma das evoluções na plataforma é a Venda-Cruzada (Cross-Selling).</p>
 
+<p>A cross-selling é uma técnica de vendas que envolve a venda de um produto ou serviço adicional a um cliente existente, dependendo das suas necessidades. Na prática, as empresas definem a venda cruzada de muitas maneiras diferentes. São várias as influências que definem como aplicar a cross-
+selling, algumas delas são: o tamanho do negócio, o tipo de cliente e seus objetivos, o setor industrial ou comercial em que o cliente opera.</p>
 
-
-<h2> :briefcase: Objetivo</h2>
-
+<p>Foi observado que incentivar o cross-selling de outros produtos dentro da página de compra, pode garantir que o cliente contrate o que precisa em um único checkout (acesso) e consequentemente auxilia no aumento de receita da área de negócio.
+Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DMS podem contribuir com alternativas disruptivas de cross-selling de produtos UOL.</p>
 <br>
 
-<h2> 📑 Backlog do produto</h2>
+<h2> 📑 Backlog do Produto</h2>
 
 <h4> 🛠️ Requisitos Funcionais</h4>
 
@@ -37,9 +35,10 @@ RNF ID# | Sprint | Requisitos | Prioridade| Status|
 
 Sprint ID | Data | Tag | Vídeo | Status
 ----------|------|-----|-------|--------
-#1 | A definir | 
-#2 |  A definir | 
-#3 | A definir | 
+#1 | 29/08 - 18/09 | 
+#2 | 19/09 - 09/10 | 
+#3 | 17/10 - 06/11 | 
+#4 | 07/11 - 27/11 | 
 
 <h2>:wrench: Tecnologias Utilizadas</h2>
 
@@ -48,13 +47,13 @@ Sprint ID | Data | Tag | Vídeo | Status
 <h2> 🎓 Equipe Gfour</h2>
     
 
-Integrantes da Equipe | Função | Linkedin | Github| Avatar|
-:--------- | :------: | :-------: | :-------: | :------: |
-Natália Bessa de Moura | PO | [Linkedin](https://www.linkedin.com/in/natalia-bessa-59b671220/) | [Github](https://github.com/lirabessa)|<img src = "imagens_gerais/natalia.jpg" width="60" height="60">|     
-Rodrigo Ribeiro dos Santos | SM | [Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)|<img src = "imagens_gerais/rodrigo1.jpg" width="60" height="60">|
-Rafael Peressoni Waltrick | DT | [Linkedin](https://www.linkedin.com/in/rafael-p-waltrick-7211b4221) |  [Github](https://github.com/rafawaltrick)|<img src = "imagens_gerais/rafa(1).jpg" width="60" height="60">|
-Nicolas Lima de Holanda Galindo | DT | [Linkedin](https://www.linkedin.com/in/nicolas-lima-2a75a3220/) | [Github](https://github.com/Nicolas734)|<img src = "imagens_gerais/nicolas11.jpg" width="60" height="60">| 
-Raniel Francisco Santos de Paula | DT |[Linkedin](https://www.linkedin.com/in/raniel-santos-204878222/)| [Github](https://github.com/Raniel-Santos)|<img src = "imagens_gerais/raniel.png" width="60" height="60">|
+Integrantes da Equipe | Função | Linkedin | Github| 
+:--------- | :------: | :-------: | :-------: | 
+Natália Bessa de Moura | PO | [Linkedin](https://www.linkedin.com/in/natalia-bessa-59b671220/) | [Github](https://github.com/lirabessa)|
+Rodrigo Ribeiro dos Santos | SM | [Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)|
+Rafael Peressoni Waltrick | DT | [Linkedin](https://www.linkedin.com/in/rafael-p-waltrick-7211b4221) |  [Github](https://github.com/rafawaltrick)|
+Nicolas Lima de Holanda Galindo | DT | [Linkedin](https://www.linkedin.com/in/nicolas-lima-2a75a3220/) | [Github](https://github.com/Nicolas734)|
+Raniel Francisco Santos de Paula | DT |[Linkedin](https://www.linkedin.com/in/raniel-santos-204878222/)| [Github](https://github.com/Raniel-Santos)|
 
 <br>
 
