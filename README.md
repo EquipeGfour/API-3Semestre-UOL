@@ -12,7 +12,12 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 <br>
 
 <h2> 📑 Backlog do Produto</h2>
+<h1 align="center">
+<img src = "/img/Backlog - Produto.png">
 
+<h2> 📑 User Stories</h2>
+<h1 align="center">
+<img src = "/img/User Stories.png">
 
 <h2> ⏲️ Timeline Do Produto</h2>
 
