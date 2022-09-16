@@ -13,11 +13,11 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 
 <h2> 📑 Backlog do Produto</h2>
 <h1 align="center">
-<img src = "/img/">
+<img src = "/img/BacklogProduto.png">
 
 <h2> 📑 User Stories</h2>
 <h1 align="center">
-<img src = "/img/">
+<img src = "/img/UserStories.png">
 
 <h2> ⏲️ Timeline Do Produto</h2>
 
@@ -41,6 +41,8 @@ Sprint ID | Data | Tag | Vídeo | Status
 Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---frontend
 
 Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
+
+<h2>:gear:Como Executar a Aplicação</h2>
 
 
 <h2>:wrench: Tecnologias Utilizadas</h2>
