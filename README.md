@@ -1,6 +1,18 @@
 <p align="center">
 <h1 align="center"> FATEC Profº Jessen Vidal, SJC - 3º Semestre DSM - API UOL </h1>
+<br id="topo">
+<p align="center">
+    <a href="#Objetivo">Objetivo</a>  |  
+    <a href="#backlog">Backlog do Produto</a>  |
+    <a href="#userstories">User Stories</a>  |
+    <a href="#timeline">Timeline do Produto</a>  |  
+    <a href="#prototipo">Protótipo</a>  |  
+    <a href="#tecnologias">Tecnologias</a>  |  
+    <a href="#equipe">Equipe GFour</a>
+</p>
 
+
+<span id="Objetivo">
 <h2> :briefcase: Objetivo do Projeto </h2>
 <p>A UOL oferece soluções que facilitam o dia a dia das pessoas. As soluções, em sua maioria, são ofertadas por um plataforma on-line, que está em constante evolução para melhorar a experiência do usuário. Uma das evoluções na plataforma é a Venda-Cruzada (Cross-Selling).</p>
 
@@ -11,18 +23,20 @@ selling, algumas delas são: o tamanho do negócio, o tipo de cliente e seus obj
 Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM podem contribuir com alternativas disruptivas de cross-selling de produtos UOL.</p>
 <br>
 
+<span id="backlog">
 <h2> 📑 Backlog do Produto</h2>
 <h1 align="center">
-<img src = "/img/BacklogProduto.png">
+<img src = "/img/BacklogProduto.png"></h1>
+<br>
 
+<span id="userstories">
 <h2> 📑 User Stories</h2>
 <h1 align="center">
-<img src = "/img/UserStories.png">
+<img src = "/img/UserStories.png"></h1>
 
+
+<span id="timeline">
 <h2> ⏲️ Timeline Do Produto</h2>
-
-
-
 <br>
 
 
@@ -35,16 +49,17 @@ Sprint ID | Data | Tag | Vídeo | Status
 #3 | 17/10 - 06/11 |||:black_square_button:| 
 #4 | 07/11 - 27/11 |||:black_square_button:| 
 
-
+<span id="links">
 <h2>:card_file_box: Links Úteis</h2>
 
 Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---frontend
 
 Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
 
-<h2>:gear:Como Executar a Aplicação</h2>
+<span id="prototipo">
+<h2>:gear:Protótipo</h2>
 
-
+<span id="tecnologias">
 <h2>:wrench: Tecnologias Utilizadas</h2>
 <p>
 <p> Comunicação <p>
@@ -90,3 +105,5 @@ Rodrigo Ribeiro dos Santos | DT | [Linkedin](https://www.linkedin.com/in/rodrigo
 </div>
  
  <h5 align="center">  Projeto Integrador 2022 - Fatec São José dos Campos </h5>
+ 
+ → [Voltar ao topo](#topo)
