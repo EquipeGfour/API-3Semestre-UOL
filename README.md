@@ -5,7 +5,8 @@
     <a href="#Objetivo">Objetivo</a>  |  
     <a href="#backlog">Backlog do Produto</a>  |
     <a href="#userstories">User Stories</a>  |
-    <a href="#timeline">Timeline do Produto</a>  |  
+    <a href="#timeline">Timeline do Produto</a>  |
+    <a href="#links">Links</a>  |  
     <a href="#prototipo">Protótipo</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe GFour</a>
@@ -37,8 +38,6 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 
 <span id="timeline">
 <h2> ⏲️ Timeline Do Produto</h2>
-<br>
-
 
 ### 🎯 Entregas
 
