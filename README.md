@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center"> FATEC Profº Jessen Vidal, SJC - 3º Semestre DSM - API UOL </h1>
 
-<h2> :briefcase: Sobre o Projeto </h2>
+<h2> :briefcase: Objetivo do Projeto </h2>
 <p>A UOL oferece soluções que facilitam o dia a dia das pessoas. As soluções, em sua maioria, são ofertadas por um plataforma on-line, que está em constante evolução para melhorar a experiência do usuário. Uma das evoluções na plataforma é a Venda-Cruzada (Cross-Selling).</p>
 
 <p>A cross-selling é uma técnica de vendas que envolve a venda de um produto ou serviço adicional a um cliente existente, dependendo das suas necessidades. Na prática, as empresas definem a venda cruzada de muitas maneiras diferentes. São várias as influências que definem como aplicar a cross-
@@ -13,11 +13,11 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 
 <h2> 📑 Backlog do Produto</h2>
 <h1 align="center">
-<img src = "/img/Backlog - Produto.png">
+<img src = "/img/">
 
 <h2> 📑 User Stories</h2>
 <h1 align="center">
-<img src = "/img/User Stories.png">
+<img src = "/img/">
 
 <h2> ⏲️ Timeline Do Produto</h2>
 
@@ -34,6 +34,14 @@ Sprint ID | Data | Tag | Vídeo | Status
 #2 | 19/09 - 09/10 |||:black_square_button:|
 #3 | 17/10 - 06/11 |||:black_square_button:| 
 #4 | 07/11 - 27/11 |||:black_square_button:| 
+
+
+<h2>:card_file_box: Links Úteis</h2>
+
+Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---frontend
+
+Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
+
 
 <h2>:wrench: Tecnologias Utilizadas</h2>
 <p>
