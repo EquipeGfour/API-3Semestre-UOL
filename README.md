@@ -7,7 +7,6 @@
     <a href="#userstories">User Stories</a>  |
     <a href="#timeline">Timeline do Produto</a>  |
     <a href="#links">Links</a>  |  
-    <a href="#prototipo">Protótipo</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe GFour</a>
 </p>
@@ -38,6 +37,7 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 
 <span id="timeline">
 <h2> ⏲️ Timeline Do Produto</h2>
+<br>
 
 ### 🎯 Entregas
 
@@ -47,6 +47,7 @@ Sprint ID | Data | Tag | Vídeo | Status
 #2 | 19/09 - 09/10 |||:black_square_button:|
 #3 | 17/10 - 06/11 |||:black_square_button:| 
 #4 | 07/11 - 27/11 |||:black_square_button:| 
+<br>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
@@ -54,10 +55,8 @@ Sprint ID | Data | Tag | Vídeo | Status
 Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---frontend
 
 Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
-
-<span id="prototipo">
-<h2>:gear:Protótipo</h2>
-
+<br>
+<br>
 <span id="tecnologias">
 <h2>:wrench: Tecnologias Utilizadas</h2>
 <p>
@@ -76,6 +75,7 @@ Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backe
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
 </p>
+<br>
 
 <div id='equipe'>
 <h2> 🎓 Equipe Gfour</h2>
