@@ -3,7 +3,7 @@
 <br id="topo">
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
-    <a href="#entregas">Entregas</a>  |
+    <a href="#entregas">Requisitos</a>  |
     <a href="#links">Links Úteis</a>  |      
     <a href="#tecnologias">Tecnologias</a>  |    
 </p>
