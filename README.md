@@ -4,13 +4,9 @@
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
     <a href="#entregas">Entregas</a>  |
-    <a href="#userstories">User Stories</a>  |
-    <a href="#links">Links Úteis</a>  |  
-    <a href="#prototipo">Protótipo</a>  |  
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe GFour</a>
+    <a href="#links">Links Úteis</a>  |      
+    <a href="#tecnologias">Tecnologias</a>  |    
 </p>
-
 
 <span id="Objetivo">
 <h2> 🎯 Objetivo da Sprint</h2>
@@ -21,15 +17,15 @@
 
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
-- **RF 01:** Utilizar TypeScript;
-- **RF 02:** Utilizar Java;
-- **RF 03:** Modelagem de Banco NoSQL;
-- **RF 04:** Documentação.
+- **RNF 01:** Utilizar TypeScript;
+- **RNF 02:** Utilizar Java;
+- **RNF 03:** Modelagem de Banco NoSQL;
+- **RNF 04:** Documentação.
 
 <br>
 
 <span id="entregas">
-<h2> 📑 Entregas</h2>
+<h2> 📑 Requisitos</h2>
 
 ### RF 01: Produtos e Categorias no Sistema:
 Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos Produtos e Categorias no sistema, nesse primeiro momento, sendo feito apenas pelo back-end.
@@ -37,14 +33,7 @@ Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos
 
 ### RF 02: Cross-Selling ao Usuário:
 Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao sistema. Temos inicialmente, uma rápida "pesquisa de interesses" onde o Usuário informa o que ele tem interesse. Com essas informações, sua HomePage é apresentada com os produtos relacionados ao seu perfil,com enfâse nas categorias escolhidas inicialmente.
-
-<span id="userstories">
-<h2> 📑 User Stories</h2>
-<h1 align="center">
-<img src = "/img/UserStories.png"></h1>
-
-
-<
+<br>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
@@ -53,6 +42,8 @@ Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---fron
 
 Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
 
+Link do Repositório do Geral: https://github.com/EquipeGfour/API-3Semestre-UOL
+<br>
 
 <span id="tecnologias">
 <h2>:wrench: Tecnologias Utilizadas</h2>
