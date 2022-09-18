@@ -37,13 +37,15 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 
 <span id="modelo">
 <h2> :clipboard: Modelo de Dados</h2>
+<h1 align="center">
+<img src = "/img/ModeloDados.png"></h1>
 <br>
 
 ### 🎯 Entregas
 
 Sprint ID | Data | Tag | Vídeo | Status
 ----------|------|-----|-------|--------
-#1 | 29/08 - 18/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)||:black_square_button:|
+#1 | 29/08 - 18/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)||:white_check_mark:|
 #2 | 19/09 - 09/10 |||:black_square_button:|
 #3 | 17/10 - 06/11 |||:black_square_button:| 
 #4 | 07/11 - 27/11 |||:black_square_button:| 
@@ -68,12 +70,14 @@ Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backe
 <img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Eclipse-CED4DA?style=for-the-badge&logo=eclipse&logoColor=2C2255" />
 <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6"/> 
-<br> <img src="https://img.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  
+<img src="https://img.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  
 <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC"/> 
+<br>
 <img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=ff8000" />
 <img src="https://img.shields.io/badge/Spring-CED4DA?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=Swagger&logoColor=4EA94B" />
 </p>
 <br>
 
