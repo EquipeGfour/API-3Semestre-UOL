@@ -28,6 +28,9 @@
 <span id="entregas">
 <h2> 📑 Requisitos</h2>
 
+<h1 align="center">
+<img src = "/img/Burndown.png"></h1>
+
 ### RF 01: Produtos e Categorias no Sistema:
 Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos Produtos e Categorias no sistema, nesse primeiro momento, sendo feito apenas pelo back-end.
 <br>
