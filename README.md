@@ -37,6 +37,8 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 
 <span id="modelo">
 <h2> :clipboard: Modelo de Dados</h2>
+<h1 align="center">
+<img src = "/img/ModeloDados.png"></h1>
 <br>
 
 ### 🎯 Entregas
