@@ -4,6 +4,7 @@
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
     <a href="#entregas">Requisitos</a>  |
+    <a href="#burndown">Burndown</a>  |
     <a href="#links">Links Úteis</a>  |      
     <a href="#tecnologias">Tecnologias</a>  |    
 </p>
@@ -34,6 +35,9 @@ Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos
 ### RF 02: Cross-Selling ao Usuário:
 Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao sistema. Temos inicialmente, uma rápida "pesquisa de interesses" onde o Usuário informa o que ele tem interesse. Com essas informações, sua HomePage é apresentada com os produtos relacionados ao seu perfil,com enfâse nas categorias escolhidas inicialmente.
 <br>
+
+<span id="burndown">
+<h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
