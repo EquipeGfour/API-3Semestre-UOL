@@ -40,7 +40,7 @@ Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao
 
 <h3>:gear: Demonstração da Aplicação</h3>
 <h1 align="center">
-<img src = "/img/aplicacao.gif"></h1>
+<img src = "/gif/aplicacao.gif"></h1>
 <br>
 
 <span id="burndown">
