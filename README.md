@@ -28,8 +28,7 @@
 <span id="entregas">
 <h2> 📑 Requisitos</h2>
 
-<h1 align="center">
-<img src = "/img/Burndown.png"></h1>
+
 
 ### RF 01: Produtos e Categorias no Sistema:
 Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos Produtos e Categorias no sistema, nesse primeiro momento, sendo feito apenas pelo back-end.
@@ -41,6 +40,9 @@ Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao
 
 <span id="burndown">
 <h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
+
+<h1 align="center">
+<img src = "/img/Burndown.png"></h1>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
