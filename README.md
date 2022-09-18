@@ -5,7 +5,7 @@
     <a href="#Objetivo">Objetivo</a>  |  
     <a href="#backlog">Backlog do Produto</a>  |
     <a href="#userstories">User Stories</a>  |
-    <a href="#timeline">Timeline do Produto</a>  |
+    <a href="#modelo">Modelo de Dados</a>  |
     <a href="#links">Links</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe GFour</a>
@@ -35,15 +35,15 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 <img src = "/img/UserStories.png"></h1>
 
 
-<span id="timeline">
-<h2> ⏲️ Timeline Do Produto</h2>
+<span id="modelo">
+<h2> :clipboard: Modelo de Dados</h2>
 <br>
 
 ### 🎯 Entregas
 
 Sprint ID | Data | Tag | Vídeo | Status
 ----------|------|-----|-------|--------
-#1 | 29/08 - 18/09 |||:black_square_button:|
+#1 | 29/08 - 18/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)||:black_square_button:|
 #2 | 19/09 - 09/10 |||:black_square_button:|
 #3 | 17/10 - 06/11 |||:black_square_button:| 
 #4 | 07/11 - 27/11 |||:black_square_button:| 
