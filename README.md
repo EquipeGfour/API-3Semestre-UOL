@@ -38,8 +38,14 @@ Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos
 Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao sistema. Temos inicialmente, uma rápida "pesquisa de interesses" onde o Usuário informa o que ele tem interesse. Com essas informações, sua HomePage é apresentada com os produtos relacionados ao seu perfil,com enfâse nas categorias escolhidas inicialmente.
 <br>
 
+<h3>:gear: Demonstração da Aplicação</h3>
+<h1 align="center">
+<img src = "/img/aplicacao.gif"></h1>
+<br>
+
 <span id="burndown">
 <h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
+
 
 <h1 align="center">
 <img src = "/img/Burndown.png"></h1>
