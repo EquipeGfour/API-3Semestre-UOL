@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> Sprint01 - 29/08 à 18/09 </h1>
+<h1 align="center"> Sprint02 - 19/09 à 09/10 </h1>
 <br id="topo">
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
@@ -15,12 +15,13 @@
 
 - **RF 01:** Produtos e Categorias no Sistema;
 - **RF 02:** Cross-Seliing ao Usuário.
+- **RF 04:** Interface e Lógicas Administrativas.
+- **RF 05:** Gerenciamento Ágil de Ofertas.
 
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
 - **RNF 01:** Utilizar TypeScript;
 - **RNF 02:** Utilizar Java;
-- **RNF 03:** Modelagem de Banco NoSQL;
 - **RNF 04:** Documentação.
 
 <br>
@@ -31,16 +32,22 @@
 
 
 ### RF 01: Produtos e Categorias no Sistema:
-Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos Produtos e Categorias no sistema, nesse primeiro momento, sendo feito apenas pelo back-end.
+Nessa segunda sprint, o cadastro dos produtos e serviços será implmentado em sua própria interface front-end. A interface será desenvolvida de forma prática e intuitiva.
 <br>
 
 ### RF 02: Cross-Selling ao Usuário:
-Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao sistema. Temos inicialmente, uma rápida "pesquisa de interesses" onde o Usuário informa o que ele tem interesse. Com essas informações, sua HomePage é apresentada com os produtos relacionados ao seu perfil,com enfâse nas categorias escolhidas inicialmente.
+Com base no feedback do cliente, serão feitos ajustes na lógica de cross-selling ja implementada,alteração no fluxo de cadastro que agora será a ultima etapa antes de se realizar a compra.
+<br>
+
+### RF 04:** Interface e Lógicas Administrativas.
+<br>
+
+### RF 05:** Gerenciamento Ágil de Ofertas.
 <br>
 
 <h3>:gear: Demonstração da Aplicação</h3>
 <h1 align="center">
-<img src = "/gif/aplicacao.gif"></h1>
+<img src = ""></h1>
 <br>
 
 <span id="burndown">
@@ -48,7 +55,7 @@ Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao
 
 
 <h1 align="center">
-<img src = "/img/Burndown.png"></h1>
+<img src = ""></h1>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
