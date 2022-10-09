@@ -69,10 +69,6 @@ Cadastro Pacote:
 <img src = "./gif/sprint-2.png"></h1>
 <br>
 
-
-<h1 align="center">
-<img src = ""></h1>
-
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
 
