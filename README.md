@@ -39,18 +39,35 @@ Nessa segunda sprint, o cadastro dos produtos e serviços será implmentado em s
 Com base no feedback do cliente, serão feitos ajustes na lógica de cross-selling ja implementada,alteração no fluxo de cadastro que agora será a ultima etapa antes de se realizar a compra.
 <br>
 
-### RF 04:** Interface e Lógicas Administrativas.
+### RF 04: Interface e Lógicas Administrativas.
 <br>
 Nessa segunda entrega, foi implementada as funções administrativas ao front-end. Cadastro de produtos, criação de pacotes e criação de categoria agora possuem suas interfaces de gerenciamento.
 
 
 <h3>:gear: Demonstração da Aplicação</h3>
+
+Cadastro Categoria:
 <h1 align="center">
-<img src = ""></h1>
+<img src = "./gif/Categoria.gif"></h1>
+<br>
+
+Cadastro Produto:
+<h1 align="center">
+<img src = "./gif/CadastroProduto.gif"></h1>
+<br>
+
+Cadastro Pacote:
+<h1 align="center">
+<img src = "./gif/Pacote.gif"></h1>
 <br>
 
 <span id="burndown">
 <h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
+
+
+<h1 align="center">
+<img src = "./gif/sprint-2.png"></h1>
+<br>
 
 
 <h1 align="center">
