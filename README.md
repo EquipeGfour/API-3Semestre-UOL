@@ -40,9 +40,10 @@ Com base no feedback do cliente, serão feitos ajustes na lógica de cross-selli
 <br>
 
 ### RF 04: Interface e Lógicas Administrativas.
-<br>
-Nessa segunda entrega, foi implementada as funções administrativas ao front-end. Cadastro de produtos, criação de pacotes e criação de categoria agora possuem suas interfaces de gerenciamento.
 
+Nessa segunda entrega, foi implementada as funções administrativas ao front-end. Cadastro de produtos, criação de pacotes e criação de categoria agora possuem suas interfaces de gerenciamento.
+<br>
+<br>
 
 <h3>:gear: Demonstração da Aplicação</h3>
 
