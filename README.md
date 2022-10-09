@@ -16,7 +16,7 @@
 - **RF 01:** Produtos e Categorias no Sistema;
 - **RF 02:** Cross-Seliing ao Usuário.
 - **RF 04:** Interface e Lógicas Administrativas.
-- **RF 05:** Gerenciamento Ágil de Ofertas.
+
 
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
@@ -41,9 +41,8 @@ Com base no feedback do cliente, serão feitos ajustes na lógica de cross-selli
 
 ### RF 04:** Interface e Lógicas Administrativas.
 <br>
+Nessa segunda entrega, foi implementada as funções administrativas ao front-end. Cadastro de produtos, criação de pacotes e criação de categoria agora possuem suas interfaces de gerenciamento.
 
-### RF 05:** Gerenciamento Ágil de Ofertas.
-<br>
 
 <h3>:gear: Demonstração da Aplicação</h3>
 <h1 align="center">
