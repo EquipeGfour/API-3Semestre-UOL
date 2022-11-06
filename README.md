@@ -13,11 +13,16 @@
 <h2> 🎯 Objetivo da Sprint</h2>
 <p>Requisitos Funcionais abrangidos nessa Sprint:</p>
 
-
+- **RF 01:** Produtos e Categorias no Sistema;
+- **RF 03:** Promoções com Multiplas Ofertas;
+- **RF 04:** Interface e Lógicas Administrativas.
 
 
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
+- **RNF 01:** Utilizar TypeScript;
+- **RNF 02:** Utilizar Java;
+- **RNF 04:** Documentação.
 
 
 <br>
@@ -25,10 +30,41 @@
 <span id="entregas">
 <h2> 📑 Requisitos</h2>
 
+### RF 01: Produtos e Categorias no Sistema:
+Nessa terceira sprint, implementamos o cadastro multíplo de produtos e categorias no sistema de forma simples, rápida e intuitiva.
+<br>
+
+### RF 03: Promoções com Multiplas Ofertas:
+Foram desenvolvidas e implementadas as funções administrativas de gerenciamento e cadastro de Promoções e Ofertas.
+<br>
+
+### RF 04: Interface e Lógicas Administrativas:
+Desenvolvido front-end de visualização dos Pacotes e Ofertas.
+<br>
+
 
 
 <h3>:gear: Demonstração da Aplicação</h3>
 
+Cadastro Categoria Multipla:
+<h1 align="center">
+<img src = "./gif/"></h1>
+<br>
+
+Cadastro Produto Multiplo:
+<h1 align="center">
+<img src = "./gif/"></h1>
+<br>
+
+Criação e Gerenciamento de Ofertas e Promoções:
+<h1 align="center">
+<img src = "./gif/"></h1>
+<br>
+
+Visualização Geral de Promoções e Ofertas:
+<h1 align="center">
+<img src = "./gif/"></h1>
+<br>
 
 
 <span id="links">
