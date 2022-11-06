@@ -38,7 +38,7 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 <span id="modelo">
 <h2> :clipboard: Modelo de Dados</h2>
 <h1 align="center">
-<img src = "/img/ModeloDados.png"></h1>
+<img src = "/img/ModeloDadosNovo.png"></h1>
 <br>
 
 ### 🎯 Entregas
@@ -46,8 +46,8 @@ Em parceria com a Fatec São José dos Campos acreditamos que alunos do 3º DSM 
 Sprint ID | Data | Tag | Vídeo | Status
 ----------|------|-----|-------|--------
 #1 | 29/08 - 18/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)||:white_check_mark:|
-#2 | 19/09 - 09/10 |[Sprint 2](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint02)||:black_square_button:|
-#3 | 17/10 - 06/11 |||:black_square_button:| 
+#2 | 19/09 - 09/10 |[Sprint 2](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint02)||:white_check_mark:|
+#3 | 17/10 - 06/11 |[Sprint 3](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint03)||:white_check_mark:| 
 #4 | 07/11 - 27/11 |||:black_square_button:| 
 <br>
 
