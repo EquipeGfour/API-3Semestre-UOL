@@ -48,22 +48,22 @@ Desenvolvido front-end de visualização dos Pacotes e Ofertas.
 
 Cadastro Categoria Multipla:
 <h1 align="center">
-<img src = "./gif/"></h1>
+<img src = "./gif/CategoriaMultipla.gif"></h1>
 <br>
 
 Cadastro Produto Multiplo:
 <h1 align="center">
-<img src = "./gif/"></h1>
+<img src = "./gif/ProdutoMultiplo.gif"></h1>
 <br>
 
 Criação e Gerenciamento de Ofertas e Promoções:
 <h1 align="center">
-<img src = "./gif/"></h1>
+<img src = "./gif/Promocao.gif"></h1>
 <br>
 
-Visualização Geral de Promoções e Ofertas:
+Visualização Geral de Ofertas:
 <h1 align="center">
-<img src = "./gif/"></h1>
+<img src = "./gif/VisualizacaoOfertas.gif"></h1>
 <br>
 
 
