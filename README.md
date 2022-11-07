@@ -71,7 +71,7 @@ Visualização Geral de Ofertas:
 
 
 <h1 align="center">
-<img src = "./gif/Burndown3.png"></h1>
+<img src = "./gif/burndown3.png"></h1>
 <br>
 
 
