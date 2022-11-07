@@ -66,6 +66,14 @@ Visualização Geral de Ofertas:
 <img src = "./gif/VisualizacaoOfertas.gif"></h1>
 <br>
 
+<span id="burndown">
+<h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
+
+
+<h1 align="center">
+<img src = "./gif/Burndown3.png"></h1>
+<br>
+
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
