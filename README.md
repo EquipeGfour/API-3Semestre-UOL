@@ -4,7 +4,6 @@
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
     <a href="#entregas">Requisitos</a>  |
-    <a href="#burndown">Burndown</a>  |
     <a href="#links">Links Úteis</a>  |      
     <a href="#tecnologias">Tecnologias</a>  |    
 </p>
@@ -43,16 +42,7 @@ Com a implemntação de cadastro multiplo, a inserção de promoções é realiz
 
 Cadastro Promoção e Oferta Multipla:
 <h1 align="center">
-<img src = "./gif/CategoriaMultipla.gif"></h1>
-<br>
-
-
-<span id="burndown">
-<h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
-
-
-<h1 align="center">
-<img src = ""></h1>
+<img src = "./gif/cadastroMultiplo.gif"></h1>
 <br>
 
 
