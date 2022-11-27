@@ -4,7 +4,8 @@
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
     <a href="#entregas">Requisitos</a>  |
-    <a href="#links">Links Úteis</a>  |      
+    <a href="#links">Links Úteis</a>  |  
+    <a href="#burndown">Burndown</a>  |       
     <a href="#tecnologias">Tecnologias</a>  |    
 </p>
 
@@ -54,6 +55,14 @@ Link do Repositório do Front-End: https://github.com/EquipeGfour/API-UOL---fron
 Link do Repositório do Back-End: https://github.com/EquipeGfour/API-UOL---Backend
 
 Link do Repositório do Geral: https://github.com/EquipeGfour/API-3Semestre-UOL
+<br>
+
+<span id="burndown">
+<h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
+
+
+<h1 align="center">
+<img src = "./gif/BurndownSprint04.png"></h1>
 <br>
 
 <span id="tecnologias">
